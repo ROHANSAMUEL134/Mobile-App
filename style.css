@@ -539,7 +539,7 @@ input:checked + .slider:before {
     color:#ccc;
     position:relative;
     left:47.5px;
-    top: 2px;
+    top: 45px;
     padding: 8px;
     border-radius: 50%;
     color: white;
@@ -720,4 +720,3 @@ a{
   transform: translate(18px);
  }
   }
-  
